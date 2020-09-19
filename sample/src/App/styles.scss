@@ -1,0 +1,43 @@
+.Root {
+  display: block;
+  padding: 20px 15%;
+}
+
+.Title {
+  font-family: 'Open Sans';
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.Bindings {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 20px;
+
+  dt {
+    background-color: rgba( 0, 0, 0, 0.1);;
+    border-radius: 2px;
+    display: inline-block;
+    font-family: monospace;
+    padding: 0.125em 0.5em;
+  }
+
+  dd {
+    display: inline-block;
+    margin-left: 1em;
+  }
+}
+
+.Text-Output {
+  display: block;
+}
+
+.TypingArea {
+  display: block;
+  margin: 20px auto;
+  min-height: 50vh;
+  outline: none;
+  padding: 20px;
+  width: 100%;
+}

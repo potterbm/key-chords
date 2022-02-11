@@ -9,7 +9,7 @@
     "koa": "^2.13.0",
     "koa-mount": "^4.0.0",
     "koa-static": "^5.0.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
